@@ -13,5 +13,5 @@ He añadido la opciones de correos y mensajes al index.html. Para validar el cor
 para de esta manera se valide, he modificado el php para que muestre el nombre, el correo y un mensaje que posteriormente 
 halla puesto el usuario y estos datos se muestran en una ventana.
 
-18-3-25
+20-3-25
 He añadido un boton de cambiar color de fondo que al pulsarlo te cambia de un color a otro
